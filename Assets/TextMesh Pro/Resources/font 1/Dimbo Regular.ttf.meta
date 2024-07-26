@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 88369c07b217c6f4a87a5d43ce851abd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dimbo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 56738127aa8318a4ebeece9cc1a16b98, type: 3}
+  - {fileID: 12800000, guid: 9717b639e83e1ac42bd4b32474de1538, type: 3}
+  - {fileID: 12800000, guid: ed7a127ffcd07274195584d209f29144, type: 3}
+  - {fileID: 12800000, guid: 0ea5dc406c5e62a48ad4c503369cb463, type: 3}
+  - {fileID: 12800000, guid: ae190c35dcc464b46aa2dd3f5690050b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
